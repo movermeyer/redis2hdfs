@@ -5,19 +5,19 @@ redis2hdfs
    :target: https://travis-ci.org/xiaogaozi/redis2hdfs
    :alt: Build Status
 
-.. image:: https://pypip.in/version/redis2hdfs/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/v/redis2hdfs.svg?style=flat
    :target: https://pypi.python.org/pypi/redis2hdfs
    :alt: Latest Version
 
-.. image:: https://pypip.in/py_versions/redis2hdfs/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/pyversions/redis2hdfs.svg?style=flat
    :target: https://pypi.python.org/pypi/redis2hdfs
    :alt: Supported Python versions
 
-.. image:: https://pypip.in/status/redis2hdfs/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/status/redis2hdfs.svg?style=flat
    :target: https://pypi.python.org/pypi/redis2hdfs
    :alt: Development Status
 
-.. image:: https://pypip.in/license/redis2hdfs/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/l/redis2hdfs.svg?style=flat
    :target: https://pypi.python.org/pypi/redis2hdfs
    :alt: License
 
